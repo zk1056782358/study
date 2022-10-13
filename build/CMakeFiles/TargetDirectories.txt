@@ -1,0 +1,9 @@
+E:/qtdev/qt/study/study/build/CMakeFiles/NightlyMemoryCheck.dir
+E:/qtdev/qt/study/study/build/CMakeFiles/Experimental.dir
+E:/qtdev/qt/study/study/build/CMakeFiles/Continuous.dir
+E:/qtdev/qt/study/study/build/CMakeFiles/Nightly.dir
+E:/qtdev/qt/study/study/build/CMakeFiles/study.dir
+E:/qtdev/qt/study/study/build/CMakeFiles/PACKAGE.dir
+E:/qtdev/qt/study/study/build/CMakeFiles/RUN_TESTS.dir
+E:/qtdev/qt/study/study/build/CMakeFiles/ALL_BUILD.dir
+E:/qtdev/qt/study/study/build/CMakeFiles/ZERO_CHECK.dir
